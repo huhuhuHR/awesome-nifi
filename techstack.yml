@@ -1,0 +1,20 @@
+repo_name: huhuhuHR/awesome-nifi
+report_id: 815b64ad2d90f1b789264e2d82ddf4a4
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-02T01:25:51+00:00'
+requested_by: jfrazee
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/huhuhuHR/awesome-nifi
+  detection_source: Repo Metadata
